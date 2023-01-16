@@ -1,6 +1,7 @@
 #!/bin/sh
 
 # Olá, este programa irá printar os processo com tal nome, e criar um executável para vc apos selecionar um pid
+# Obs: O executável deve estar rodando, assim o comando irá pegar os processos com tais nomes qual escolhido
 # Feel free to change it :)
 
 set -e
